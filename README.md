@@ -1,4 +1,4 @@
-# Event Listener Sample
+# Reactive Spring Samples
 
 This project is an attempt to learn reactive programming using Spring 5
 ### Reference Documentation
